@@ -1,0 +1,25 @@
+﻿  prj1.cpp
+C:\Users\Максим\source\repos\opencv\prj1.cpp(35,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Максим\source\repos\opencv\prj1.cpp(39,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Максим\source\repos\opencv\prj1.cpp(79,52): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Максим\source\repos\opencv\prj1.cpp(79,49): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Максим\source\repos\opencv\prj1.cpp(83,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Максим\source\repos\opencv\prj1.cpp(106,63): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Максим\source\repos\opencv\prj1.cpp(106,42): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+  opencv.vcxproj -> C:\Users\Максим\source\repos\opencv\x64\Debug\opencv.exe
